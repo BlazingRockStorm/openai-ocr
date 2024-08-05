@@ -1,0 +1,4 @@
+typing==3.7.4.3
+python-dotenv==1.0.0
+pandas==2.1.1
+openai==1.2.2
