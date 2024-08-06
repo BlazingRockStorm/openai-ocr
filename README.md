@@ -6,7 +6,7 @@ Fully in OpenAI
 ## Commands
 ```shell
 python3 -m venv .
-source /bin/activate
+source ./bin/activate
 ```
 
 run:
